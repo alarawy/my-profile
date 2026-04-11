@@ -11,7 +11,7 @@
 ---
 ## 🧑‍💻 About Me:
 
-- 👨‍🦱 I'm **Ahmed Reda**, a **21** years old  
+- 👨‍🦱 I'm **Ahmed Reda**, a **22** years old  
 - 🎓 Final-year CS student at **Mansoura University**  
 - ⚛️ Passionate about building fast, scalable frontend apps using **React** & **Next.js**  
 - 🧼 Focused on writing **clean**, maintainable code and delivering **great UX**  
