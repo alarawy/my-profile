@@ -57,11 +57,11 @@
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ahmedcodexx&theme=dark&title_color=36BCF7&card_width=480&hide_border=true&include_all_commits=false&icon_color=36BCF7&show_icons=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=ahmedcodexx&theme=dark&ring=36BCF7FF&fire=36BCF7&currStreakLabel=36BCF7&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedcodexx&theme=dark&card_width=600&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=alarawy&theme=dark&title_color=36BCF7&card_width=480&hide_border=true&include_all_commits=false&icon_color=36BCF7&show_icons=true&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=alarawy&theme=dark&ring=36BCF7FF&fire=36BCF7&currStreakLabel=36BCF7&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alarawy&theme=dark&card_width=600&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedcodexx&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alarawy&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
